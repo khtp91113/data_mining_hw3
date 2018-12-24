@@ -1,0 +1,18 @@
+graph 1
+Add edges: 
+(1,2)(2,1)(1,3)(3,1)(1,4)(4,1)(1,5)(5,1)(1,6)(6,1)
+origin: authority=0.0, hub=0.2, pagerank=0.025
+After: authority=0.164, hub=0.442, pagerank=0.344
+
+graph 2
+Add edges: 
+(1,2)(2,1)(1,3)(3,1)(1,4)(4,1)(1,5)(5,1)
+origin: authority=0.2, hub=0.2, pagerank=0.2
+After: authority=0.319, hub=0.319, pagerank=0.357
+
+graph 3
+Add edges: 
+(1,2)(2,1)(1,3)(3,1)(1,4)(4,1)
+origin: authority=0.188, hub=0.188, pagerank=0.17
+After: authority=0.316, hub=0.316, pagerank=0.337
+
